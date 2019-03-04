@@ -43,6 +43,10 @@ puts "Hello upticks!"
 1. Add, commit, and push your work
 1. Open a PR with a screenshot of your new food section
 
+Here's an example:
+
+![Favorite Foods Example](https://raw.githubusercontent.com/powerhome/phrg-github-workflow-primer-part-four/master/favorite-foods-example.png?raw=true "Favorite Foods Example Section")
+
 ## Switch drivers
 
 1. Create a new git branch for your work
@@ -53,3 +57,7 @@ puts "Hello upticks!"
 1. Below each definition, use 3 upticks to show an example of the methods use. Feel free to use Ruby comments in your code snippet to make its application very clear - `# this is a comment example`. Also, some flavors of `Markdown` allow you to provide language hints to direct the language color-coding like [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code).
 1. Add, commit, and push your work
 1. Open a PR with a screenshot of your 4 favorite Ruby methods
+
+Here's an example:
+
+![Markdown Ruiby Snippets](https://raw.githubusercontent.com/powerhome/phrg-github-workflow-primer-part-four/master/markdown-example.png?raw=true "Examples of adding Ruby Snippets in Markdown")
